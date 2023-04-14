@@ -1,6 +1,6 @@
 # RESTapi-checkpoint
 
-The API should now be running on http://localhost:8000 by default.
+The API be running on http://localhost:8000 by default.
 
 API Endpoints
 The following endpoints are available in the API:
